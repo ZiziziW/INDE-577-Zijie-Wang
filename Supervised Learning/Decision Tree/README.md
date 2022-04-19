@@ -1,1 +1,3 @@
-
+# Decision and Regression Trees
+Many traditional machine learning methods, such as Random Forests, Bagging, and Boosted Decision Trees, are built on the basis of Decision Trees. The concept is to display data as a tree, with each internal node denoting a test on an attribute (essentially a condition), each branch denoting the test's conclusion, and each leaf node (terminal node) holding a class label. <br>  
+Decision trees are now widely used in many applications for predictive modeling, including both classification and regression.  CART, which stands for Classification and Regression Trees, is another name for decision trees. 
