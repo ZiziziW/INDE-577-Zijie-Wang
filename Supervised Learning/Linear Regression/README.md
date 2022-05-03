@@ -9,6 +9,9 @@ Main content of Linear Regression
 ## Introduction 
 Linear regression attempts to model the relationship between two variables by fitting a linear equation to observed data. One variable is considered to be an explanatory variable, and the other is considered to be a dependent variable. For example, a modeler might want to relate the weights of individuals to their heights using a linear regression model.
 
+![image](https://user-images.githubusercontent.com/90750119/166439226-a8f1655c-a4fc-4041-a48e-f6838fb5ff27.png)
+
+
 * ### Formulation
   ![1651573978(1)](https://user-images.githubusercontent.com/90750119/166438963-2cdc2cdd-538c-4e93-b0a3-0721d62e6af8.png)
   
