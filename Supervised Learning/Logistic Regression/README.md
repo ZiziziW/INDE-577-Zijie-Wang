@@ -1,7 +1,7 @@
 # Logistic Regression
 
 Main content of Logistic Regression
-* [Logistic Regression](/guides/content/editing-an-existing-page) Jupyter notebook file
+* [Logistic Regression]Jupyter notebook file
 * Data set: The penguin dataset
 ## Introduction 
 The classification technique logistic regression is used to assign observations to a discrete set of classes. Email spam or not spam, online transactions fraud or not fraud, and tumor malignant or benign are some instances of categorization issues. The logistic sigmoid function translates the result of logistic regression into a probability value.
