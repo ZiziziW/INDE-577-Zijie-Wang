@@ -1,6 +1,6 @@
 # Ensemble Learning
 Main content of Ensemble Learning
-* [Ensemle Learning](/guides/content/editing-an-existing-page) Jupyter notebook file
+* [Ensemle Learning] Jupyter notebook file
 * Data set: The penguin dataset
 ## Introduction 
 Ensemble learning is a general meta approach to machine learning that seeks better predictive performance by combining the predictions from multiple models.  Other applications of ensemble learning include assigning a confidence to the decision made by the model, selecting optimal (or near optimal) features, data fusion, incremental learning, nonstationary learning and error-correcting. 
