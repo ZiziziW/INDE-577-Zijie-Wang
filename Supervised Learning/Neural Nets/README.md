@@ -1,6 +1,6 @@
 # Programming a Deep Neural Network
 Main content of Neural Network
-* [Neural Network]Jupyter notebook file
+* [Neural_Network_ (1)]Jupyter notebook file
 * Data set: Fashion MNIST
 ## Introduction 
 The method of training a neural network is similar to that of trial and error. Assume you're learning to play darts for the first time. You strive to strike the dartboard's middle point with your first throw. The initial shot is usually only to gain a sense of how your hand's height and speed effect the outcome. If the dart appears to be higher than the central point, you move your hand to throw it lower, and so on.
