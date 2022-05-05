@@ -1,6 +1,6 @@
 # Principal Component Analysis
 Main content of Principal Component Analysis
-* [Principal Component Analysis](/guides/content/editing-an-existing-page) Jupyter notebook file
+* [Principal Component Analysis] Jupyter notebook file
 * Data set: The penguin dataset
 ## Introduction 
 PCA is utilized in exploratory data analysis and predictive model development. It's often used for dimensionality reduction, where each data point is projected onto only the first few principal components to produce lower-dimensional data while keeping as much variance as feasible. The starting point of PCA is the matrix of correlation coefficients derived from the original data set. Strictly speaking, the rationale behind the method requires that the correlations be obtained from variables measured on some continuous scale. 
