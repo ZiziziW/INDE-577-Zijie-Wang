@@ -2,7 +2,7 @@
 
 Main content of Support Vector Machines
 
-* [Support Vector Machines](/guides/content/editing-an-existing-page) Jupyter notebook file
+* [Support Vector Machines] Jupyter notebook file
 * Data set: Cancer from sklearn
 ## Introduction 
 SVMs are supervised machine learning algorithms that are used for classification and regression analysis. The SVM is capable of both linear and nonlinear classification. The Kernel function is used to accomplish nonlinear classification. Homogeneous polynomial, complex polynomial, Gaussian radial basis function, and hyperbolic tangent function are the kernels in nonlinear classification. The Gaussian kernel, which has a single parameter, performs exceptionally well in SVM. Because the SVM approach surpasses the others, it is the most often utilized machine learning methodology, particularly in industrial settings.
