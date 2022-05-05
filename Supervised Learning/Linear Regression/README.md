@@ -1,6 +1,6 @@
 # Linear Regression
 Main content of Linear Regression
-* [Linear Regression](/guides/content/editing-an-existing-page) Jupyter notebook file
+* [Linear Regression]Jupyter notebook file
 * Data set: The penguin dataset
 * Linear Regression Single Neuron Model
 * Algorithm
