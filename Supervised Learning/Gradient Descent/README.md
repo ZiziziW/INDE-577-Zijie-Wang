@@ -1,6 +1,6 @@
 # Gradient Descent
 Main content of Gradient Descent
-* [Gradient Descent](/guides/content/editing-an-existing-page) Jupyter notebook file
+* [Gradient Descent]Jupyter notebook file
 * Data set: folder containing datasets
 * Minimizing a Single Variable Function
 * The Problem Description and The General Idea
