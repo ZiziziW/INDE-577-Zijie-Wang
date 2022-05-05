@@ -1,6 +1,6 @@
 # The K-Nearest Neighbors Algorithm¶
 Main content of k-Nearest Neighbors
-* [k-Nearest Neighbors](/guides/content/editing-an-existing-page) Jupyter notebook file
+* [k-Nearest Neighbors] Jupyter notebook file
 * Data set: The penguin dataset
 ## Introduction 
 The k-nearest neighbors (KNN) algorithm is a data classification method for estimating the likelihood that a data point will become a member of one group or another based on what group the data points nearest to it belong to. The k-nearest neighbor algorithm is a type of supervised machine learning algorithm used to solve classification and regression problems.
